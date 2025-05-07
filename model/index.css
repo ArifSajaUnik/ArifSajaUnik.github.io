@@ -1,0 +1,47 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+hr {
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+body {
+    background-image: url(../model/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.submit,.req {
+    background-color: aqua;
+    border-width: 2px;
+}
+.ket,.submit {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: auto;
+}
+.judul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    width: 250px;
+    margin: auto;
+    margin-top: 20px;
+}
+a {
+    text-decoration: none;
+    text-align: justify;
+}
+.akun {
+    background-image: url(../model/bacground\ akun.webp);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    padding: 15px 20px;
+    margin: 10px auto;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px 10px 10px 5px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
